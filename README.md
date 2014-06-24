@@ -1,4 +1,4 @@
-lmpatricial.github.io
+lmpatricia.github.io
 =====================
 
 My resume site
